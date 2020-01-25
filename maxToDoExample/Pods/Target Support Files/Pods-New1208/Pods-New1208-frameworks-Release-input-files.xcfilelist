@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-New1208/Pods-New1208-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/NewPopMenu/PopMenu.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework

@@ -1,0 +1,6 @@
+framework module Pods_New1208 {
+  umbrella header "Pods-New1208-umbrella.h"
+
+  export *
+  module * { export * }
+}

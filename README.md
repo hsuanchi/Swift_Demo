@@ -2,8 +2,7 @@
 
 ### 1. orderAppExample
 
-* 這是一個訂飲料的App
-* 詳細內容寫於：[Swift 教學 - Swift 訂飲料App (附程式碼)](https://www.maxlist.xyz/2019/09/08/swift-drink-app/)
+* 訂飲料的App，詳細內容寫於：[Swift 教學 - Swift 訂飲料App (附程式碼)](https://www.maxlist.xyz/2019/09/08/swift-drink-app/)
 
 
 <img src="https://github.com/hsuanchi/Swift_Demo/blob/master/img/swiftOrderApp.png" width="500">
